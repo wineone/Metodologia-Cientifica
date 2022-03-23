@@ -7,7 +7,7 @@ O meio de tecnologia possui diversas áreas que podem ser trilhadas, dentre elas
 - Gabriel Max Vieira Matos - Matrícula: 117110060
 - Igor de Sousa Pereira - Matrícula: 117210693
 - João Antônio Bandeira - Matrícula: 117210692
-- Matheus Lisboa Oliveira dos Santos - Matrícula: 1172107
+- Matheus Lisboa Oliveira dos Santos - Matrícula: 11721072
 - Rafaela de Amorim Barbosa Silva - Matrícula: 117210299
 
 ## Para executar os experimentos
@@ -17,4 +17,9 @@ Navegue até a pasta que contem o notebook python e execute:
 ```
 pip install -r requirements.txt
 jupyter notebook
+```
+
+## Link para a survey que foi aplicada
+```
+https://docs.google.com/forms/d/1uAvlK4G7la5PSkbNHT1mqX-0M_Y-9c_sHjcJlLeUFEQ/prefill
 ```
